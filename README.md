@@ -2,7 +2,7 @@
 
 Salut 👋 Je suis Teddy, ingénieur freelance spécialisé sur **React**, **React Native**, et plus globalement l'environnement **NodeJS**.
 
-Je traîne de temps en temps sur Github mais passe la plupart de mon temps sur [GitLab](https://gitlab.com/morintd).
+Je traîne de temps en temps sur Github mais passe la plupart de mon temps sur [GitLab](https://gitlab.com/morintd) et [npm](https://www.npmjs.com/morintd).
 
 Tu pourras trouver plus d'information sur mes expériences en passant sur mon [LinkedIn](https://www.linkedin.com/in/teddy-morin/).
 Si tu recherches des profils similaire au mien, je fais partie d'un groupe de trois freelances qui a déposé une marque sous laquelle on se présente :  [TRIS](https://www.tris.agency/).
@@ -23,7 +23,7 @@ Si mon profile t’intéresse ou que tu as simplement besoin de conseil, n'hési
 
 Hello there 👋 I'm Teddy, a freelance software engineer specialised on **React**, **React Native**, and **NodeJS**.
 
-I sometimes hang on Github but spend most of my time on [GitLab](https://gitlab.com/morintd).
+I sometimes hang on Github but spend most of my time on [GitLab](https://gitlab.com/morintd) and [npm](https://www.npmjs.com/morintd)
 
 You can find more information about my experiences on [LinkedIn](https://www.linkedin.com/in/teddy-morin/).
 If you look for similar profiles, I'm amongst three freelances who registered a brand name :  [TRIS](https://www.tris.agency/).

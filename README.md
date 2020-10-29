@@ -15,6 +15,8 @@ J'interviens sur les sujets de :
 
 Il m'arrive aussi d'intervenir sur du backend, j'avoue avoir un attrait pour **NestJS**.
 
+Ma stack en une ligne : React, React Native, Redux / Redux Saga, NestJS, Jest, Enzyme, Puppeteer, Electron, Typescript, GitLab (CI), prettier, eslint, npm, AWS
+
 Mon profil touche beaucoup à l'architecture logiciel. J'apprécie être présent au démarrage d'un nouveau projet pour participer aux choix techniques : c'est là que je prend le plus de plaisir et où j'offre le plus de valeur. 
 
 Si mon profile t’intéresse ou que tu as simplement besoin de conseil, n'hésite pas à me contacter, le plus simple reste  mon [LinkedIn](https://www.linkedin.com/in/teddy-morin/).
@@ -35,6 +37,8 @@ I work on :
  - Project analysis and management
 
 I also sometimes intervene on backend, I confess being drawn to **NestJS**.
+
+My tech stack in one line : React, React Native, Redux / Redux Saga, NestJS, Jest, Enzyme, Puppeteer, Electron, Typescript, GitLab (CI), prettier, eslint, npm, AWS
 
 My profile has a lot to do with software architecture. I appreciate being present at the start of a new project to participate in the technical choices: this is where I have the most fun and where I offer the most value. 
 

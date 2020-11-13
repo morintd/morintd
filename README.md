@@ -1,6 +1,8 @@
 ***Version Française*** (***English below***)
 
-Salut 👋 Je suis Teddy, ingénieur freelance spécialisé sur **React**, **React Native**, et plus globalement l'environnement **NodeJS**.
+Salut 👋 Je suis Teddy, un passioné de React 🚀.
+
+Je suis officielement un Ingénieur Logiciel depuis 2019. Je travaille en tant que Freelance depuis début 2018 et ai commencé mon aventure Javascript / Front-end en 2016 avec Angular 2. 
 
 Je traîne de temps en temps sur Github mais passe la plupart de mon temps sur [GitLab](https://gitlab.com/morintd) et [npm](https://www.npmjs.com/~morintd).
 
@@ -17,13 +19,15 @@ Il m'arrive aussi d'intervenir sur du backend, j'avoue avoir un attrait pour **N
 
 Ma stack en une ligne : React, React Native, Redux / Redux Saga, NestJS, Jest, Enzyme, Puppeteer, Electron, Typescript, GitLab (CI), prettier, eslint, npm, AWS
 
-Mon profil touche beaucoup à l'architecture logiciel. J'apprécie être présent au démarrage d'un nouveau projet pour participer aux choix techniques : c'est là que je prend le plus de plaisir et où j'offre le plus de valeur. 
-
 Si mon profile t’intéresse ou que tu as simplement besoin de conseil, n'hésite pas à me contacter, le plus simple reste  mon [LinkedIn](https://www.linkedin.com/in/teddy-morin/).
 
 ***English version***
 
-Hello there 👋 I'm Teddy, a freelance software engineer specialised on **React**, **React Native**, and **NodeJS**.
+Hello there 👋 I'm Teddy, a React lover 🚀.
+
+I'm officially a Software Engineer since 2019. I work as a Freelance since early 2018 and started my journey to the Javascript / Front-end world in 2016 with Angular2. 
+
+Since 2017, I switched and I'm now specialised on React, React Native, and NodeJS.
 
 I sometimes hang on Github but spend most of my time on [GitLab](https://gitlab.com/morintd) and [npm](https://www.npmjs.com/~morintd)
 
@@ -36,10 +40,8 @@ I work on :
  - CI implementation / Quality process
  - Project analysis and management
 
-I also sometimes intervene on backend, I confess being drawn to **NestJS**.
+I also sometimes work on Back-End projects, I confess being drawn to **NestJS**.
 
 My tech stack in one line : React, React Native, Redux / Redux Saga, NestJS, Jest, Enzyme, Puppeteer, Electron, Typescript, GitLab (CI), prettier, eslint, npm, AWS
-
-My profile has a lot to do with software architecture. I appreciate being present at the start of a new project to participate in the technical choices: this is where I have the most fun and where I offer the most value. 
 
 If you are interested in my profile or if you simply need some advice, do not hesitate to contact me, the simplest way is my [LinkedIn](https://www.linkedin.com/in/teddy-morin/).
